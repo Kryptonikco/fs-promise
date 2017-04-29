@@ -1,0 +1,19 @@
+{
+  "name": "fs-promise",
+  "version": "0.1.0",
+  "description": "Turn fs callbacks to promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kadiks/fs-promise.git"
+  },
+  "author": "Jénaïc Cambré <me@jenaiccambre.com> (www.jenaiccambre.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadiks/fs-promise/issues"
+  },
+  "homepage": "https://github.com/kadiks/fs-promise#readme"
+}
